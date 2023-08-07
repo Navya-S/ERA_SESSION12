@@ -1,6 +1,6 @@
 # ERA-SESSION12 PyTorch Lightning &amp; Gradio
 
-HF Link: https://huggingface.co/spaces/RaviNaik/ERA-Session12
+HF Link: https://huggingface.co/spaces/Navya/ERA_SESSION12/tree/main
 
 ### Model Summary
 ```python
